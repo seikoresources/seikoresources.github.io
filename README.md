@@ -1,1 +1,1 @@
-# seikoresources.github.io
+# seikoweb
